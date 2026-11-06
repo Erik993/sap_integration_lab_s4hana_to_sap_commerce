@@ -1,0 +1,6 @@
+#Store metainfo properties
+#Fri Nov 06 14:12:05 UTC 2026
+SAP-MarkedSAP2SAP=SAP_TO_SAP_INTEGRATION
+description=Process BP SOAP request from SAP S/4HANA for replication to SAP\u00A0Commerce Cloud
+source=SAPS4HANA
+target=SAPCommerceCloud
